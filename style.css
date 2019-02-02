@@ -10,7 +10,9 @@
       border-bottom: none;  
     }
 }
-
+li, h2{
+    color:green;
+}
 body{
     margin: 0px;
 }
